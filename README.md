@@ -1,10 +1,49 @@
-# Eindopdracht prg4. Eigen game
+# 🎮 Endless Runner Game
 
-### All Too Well - Een endless runner game
+Een endless runner game gemaakt met Excalibur.js gebaseerd op het nummer All Too Well van Taylor Swift. Ontwijk gebroken harten en probeer zo lang mogelijk te overleven!
 
-Je speelt als Taylor die zichzelf probeert terug te krijgen na een heartbreak. 
-Ontwijk de gebroken hartjes door met het pijltje omhoog te springen om zo een zo hoog mogelijke score te krijgen. 
-Raak je een hartje? Dan verlies je een leven en komt er een mogelijkheid om het leven terug te krijgen. Er komt een rode sjaal voorbij wat een stukje van haarzelf representeert. Verzamel die en je krijgt je verloren leven weer terug.
-Je hebt 3 levens.
+# Technologieën
 
-Veel speel plezier! 
+- Excalibur
+- Javascript
+- Git en Github
+
+# Functies
+
+- Oneindig scrollende wereld
+- Obstakels om te ontwijken
+- Score wordt bijgehouden
+- 3 Levens, verzamel rode sjaal na het verliezen van een leven
+
+# Installatie en gebruik
+
+1. Clone de repository:
+
+```sh
+git clone https://github.com/eline-vanstraten/endless-runner-game.git
+```
+
+2. Ga naar de map:
+
+```sh
+cd endless-runner-game
+```
+
+3. Installeer dependencies:
+
+```sh
+npm install
+```
+
+4. Start de development server:
+
+```sh
+npm run dev
+```
+
+# Controls
+- Pijltje omhoog: springen
+
+## ✦ Auteur
+
+Eline van Straten
